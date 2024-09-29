@@ -1,6 +1,5 @@
 Usage:  <br />python3 hrd.py --algo astar --inputfile (input file path) --outputfile (output file path)  
-        python3 hrd.py --algo dfs --inputfile (input filename) --outputfile (output filename)  
-
+        python3 hrd.py --algo dfs --inputfile (input file path) --outputfile (output file path)  
 Pieces on file:<br />
  <> (Horizontal)
  
