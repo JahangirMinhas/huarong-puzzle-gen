@@ -4,8 +4,8 @@ Usage:  python3 hrd.py --algo astar --inputfile <input file> --outputfile <outpu
 Pieces on file:
  <> (Horizontal)
  
- ^  (Vertical)
- v 
+ ^ 
+ v (Vertical
  
  2 (Single)
  
